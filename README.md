@@ -21,7 +21,7 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 
 ## Challenges Faced
 - Faced issue with Binance testnet API key generation (secret key not visible)
-- Due to this, API execution could not be fully tested
+- Due to this, API execution could not be fully tested but later on did it anyhow 
 
 ## What I Learned
 - CLI-based application design
