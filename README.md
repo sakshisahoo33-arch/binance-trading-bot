@@ -27,3 +27,4 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 - CLI-based application design
 - Modular coding (client, orders, validators)
 - Handling API errors and validation
+- This is how its worked 
