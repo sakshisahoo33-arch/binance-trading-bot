@@ -10,6 +10,7 @@ A CLI-based trading bot built in Python for placing orders on Binance Futures Te
 - Input validation with descriptive error messages
 - Structured logging (console + rotating file)
 - Granular error handling (network, auth, API, validation)
+- Designed this for automatic trading
 
 ## Project Structure
 ```
